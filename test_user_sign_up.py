@@ -8,6 +8,7 @@ from UnitTestsDocker.DockerPages.HomePage import DockerHomePageLocators
 from UnitTestsDocker.DockerPages.SignInPage import SignInLocators
 from UnitTestsDocker.test_base_home_page import DockerHomePageBaseTest
 
+PASSWORD_STRENGTH = 8
 
 class UserSignupTest(DockerHomePageBaseTest):
 
@@ -21,4 +22,11 @@ class UserSignupTest(DockerHomePageBaseTest):
         sign_in_page = SignInLocators(self.driver)
         sign_in_page.click_sign_up_button()
 
+    @property
     def generate_user_name(self):
+        return "dockerauto"+str(random.randint())
+
+    @property
+    def generate_password(self):
+        return ''.join(random.choices(string.ascii_uppercase +
+                             string.digits, k=PASSWORD_STRENGTH))
