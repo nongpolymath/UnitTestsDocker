@@ -10,10 +10,9 @@ class DockerHomePageBaseTest(unittest.TestCase):
     @classmethod
     def setUpClass(cls):
         cls.driver = webdriver.Firefox()
-        cls.driver.get("http://www.docker.com")
+        cls.driver.get("https://www.docker.com")
         cls.driver.maximize_window()
-        time.sleep(3)
-        return cls.driver
+        cls.driver.implicitly_wait(3)
 
     @classmethod
     def tearDownClass(cls):

@@ -4,6 +4,10 @@ class SignUpLocators(object):
         self.driver = driver
 
     @property
+    def sign_up_text(self):
+        return self.driver.find_element_by_css_selector(".styles__mainTitle___3_abT")
+
+    @property
     def user_id(self):
         return self.driver.find_element_by_id('username')
 
@@ -13,7 +17,7 @@ class SignUpLocators(object):
 
     @property
     def password(self):
-        return self.driver.find_element_by_id('email')
+        return self.driver.find_element_by_id('password')
 
     @property
     def captcha_checkbox(self):
@@ -23,14 +27,17 @@ class SignUpLocators(object):
     def sign_up_button(self):
         return self.driver.find_element_by_class_name('styles__signUpButton___jEpn5')
 
-    def enter_docker_id(self, user_id):
-        self.user_id.send_keys(user_id)
+    def enter_new_docker_id(self, user_text):
+        import time
+        time.sleep(5)
+        self.user_id.send_keys(user_text)
 
     def enter_user_password(self, user_password):
         self.password.send_keys(user_password)
 
-    def enter_user_email(self, email):
-        self.password.send_keys(email)
+    def enter_user_email(self, email_id):
+        self.email.click()
+        self.email.send_keys(email_id)
 
     def click_captcha_checkbox(self):
         self.captcha_checkbox.click()

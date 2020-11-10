@@ -2218,3 +2218,1228 @@ JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: 
 
 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
 
+1604992801329	geckodriver	INFO	Listening on 127.0.0.1:49634
+1604992804361	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bonee\\AppData\\Local\\Temp\\rust_mozprofileHdaQeh"
+JavaScript error: 47213953.cfg, line 3: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604992807664	Marionette	INFO	Listening on port 49646
+1604992808049	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604992817909	Marionette	INFO	Stopped listening on port 49646
+JavaScript error: https://d36jcksde1wxzq.cloudfront.net/bugsnag.9ce7c00bfb222ec6902e.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 582: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604992844033	geckodriver	INFO	Listening on 127.0.0.1:49766
+1604992847045	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bonee\\AppData\\Local\\Temp\\rust_mozprofileOr0vyV"
+JavaScript error: 47213953.cfg, line 3: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604992850407	Marionette	INFO	Listening on port 49775
+1604992850710	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604992860503	Marionette	INFO	Stopped listening on port 49775
+JavaScript error: https://d36jcksde1wxzq.cloudfront.net/bugsnag.9ce7c00bfb222ec6902e.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 582: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604993040484	geckodriver	INFO	Listening on 127.0.0.1:50024
+1604993043511	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bonee\\AppData\\Local\\Temp\\rust_mozprofile1EBtPN"
+JavaScript error: 47213953.cfg, line 3: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604993046803	Marionette	INFO	Listening on port 50034
+1604993047197	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604993058757	Marionette	INFO	Stopped listening on port 50034
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604993121866	geckodriver	INFO	Listening on 127.0.0.1:50194
+1604993124877	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bonee\\AppData\\Local\\Temp\\rust_mozprofileYugSsX"
+JavaScript error: 47213953.cfg, line 3: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604993127693	Marionette	INFO	Listening on port 50204
+1604993128030	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604993140890	Marionette	INFO	Stopped listening on port 50204
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604993366415	geckodriver	INFO	Listening on 127.0.0.1:50465
+1604993369445	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bonee\\AppData\\Local\\Temp\\rust_mozprofileMkXi94"
+JavaScript error: 47213953.cfg, line 3: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604993372424	Marionette	INFO	Listening on port 50478
+1604993372614	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604993384613	Marionette	INFO	Stopped listening on port 50478
+JavaScript error: https://d36jcksde1wxzq.cloudfront.net/bugsnag.9ce7c00bfb222ec6902e.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604993508357	geckodriver	INFO	Listening on 127.0.0.1:50646
+1604993511399	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bonee\\AppData\\Local\\Temp\\rust_mozprofileYunAqG"
+JavaScript error: 47213953.cfg, line 3: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604993514335	Marionette	INFO	Listening on port 50656
+1604993514571	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604993527556	Marionette	INFO	Stopped listening on port 50656
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604993626089	geckodriver	INFO	Listening on 127.0.0.1:50834
+1604993629136	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bonee\\AppData\\Local\\Temp\\rust_mozprofilefE6unU"
+JavaScript error: 47213953.cfg, line 3: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604993631993	Marionette	INFO	Listening on port 50843
+1604993632318	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604993645176	Marionette	INFO	Stopped listening on port 50843
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604993681115	geckodriver	INFO	Listening on 127.0.0.1:50980
+1604993684149	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bonee\\AppData\\Local\\Temp\\rust_mozprofileDxJeSt"
+JavaScript error: 47213953.cfg, line 3: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604993686723	Marionette	INFO	Listening on port 50990
+1604993686816	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604993699765	Marionette	INFO	Stopped listening on port 50990
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604993775610	geckodriver	INFO	Listening on 127.0.0.1:51151
+1604993778632	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bonee\\AppData\\Local\\Temp\\rust_mozprofileVv3c5O"
+JavaScript error: 47213953.cfg, line 3: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604993781964	Marionette	INFO	Listening on port 51161
+1604993782311	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604993793956	Marionette	INFO	Stopped listening on port 51161
+[Child 10364, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 545
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604993868533	geckodriver	INFO	Listening on 127.0.0.1:51324
+1604993871572	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bonee\\AppData\\Local\\Temp\\rust_mozprofileOCF15D"
+JavaScript error: 47213953.cfg, line 3: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604993874590	Marionette	INFO	Listening on port 51333
+1604993874734	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604993887151	Marionette	INFO	Stopped listening on port 51333
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604994027111	geckodriver	INFO	Listening on 127.0.0.1:51663
+1604994030156	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bonee\\AppData\\Local\\Temp\\rust_mozprofilepQikPG"
+JavaScript error: 47213953.cfg, line 3: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604994033583	Marionette	INFO	Listening on port 51672
+1604994033870	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604994048648	Marionette	INFO	Stopped listening on port 51672
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604994425236	geckodriver	INFO	Listening on 127.0.0.1:52040
+1604994428269	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bonee\\AppData\\Local\\Temp\\rust_mozprofileaq14oH"
+JavaScript error: 47213953.cfg, line 3: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604994431583	Marionette	INFO	Listening on port 52052
+1604994432130	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604994444141	Marionette	INFO	Stopped listening on port 52052
+JavaScript error: https://d36jcksde1wxzq.cloudfront.net/bugsnag.9ce7c00bfb222ec6902e.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604994503294	geckodriver	INFO	Listening on 127.0.0.1:52190
+1604994506329	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bonee\\AppData\\Local\\Temp\\rust_mozprofilediqP5Q"
+JavaScript error: 47213953.cfg, line 3: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604994509273	Marionette	INFO	Listening on port 52199
+1604994509515	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604994521279	Marionette	INFO	Stopped listening on port 52199
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604994634427	geckodriver	INFO	Listening on 127.0.0.1:52375
+1604994637447	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bonee\\AppData\\Local\\Temp\\rust_mozprofilehHaI6b"
+JavaScript error: 47213953.cfg, line 3: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604994640329	Marionette	INFO	Listening on port 52387
+1604994640627	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604994654534	Marionette	INFO	Stopped listening on port 52387
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604994864991	geckodriver	INFO	Listening on 127.0.0.1:52790
+1604994868030	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bonee\\AppData\\Local\\Temp\\rust_mozprofileZg2S0c"
+JavaScript error: 47213953.cfg, line 3: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604994870953	Marionette	INFO	Listening on port 52800
+1604994871204	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604994895732	Marionette	INFO	Stopped listening on port 52800
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604995207916	geckodriver	INFO	Listening on 127.0.0.1:53223
+1604995211033	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bonee\\AppData\\Local\\Temp\\rust_mozprofileX117hf"
+JavaScript error: 47213953.cfg, line 3: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604995213949	Marionette	INFO	Listening on port 53232
+1604995214198	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604995229430	Marionette	INFO	Stopped listening on port 53232
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604995358177	geckodriver	INFO	Listening on 127.0.0.1:53423
+1604995361210	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bonee\\AppData\\Local\\Temp\\rust_mozprofileRENqLp"
+JavaScript error: 47213953.cfg, line 3: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604995364095	Marionette	INFO	Listening on port 53433
+1604995364399	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604995378847	Marionette	INFO	Stopped listening on port 53433
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604995471667	geckodriver	INFO	Listening on 127.0.0.1:53632
+1604995474696	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bonee\\AppData\\Local\\Temp\\rust_mozprofilexAZqHU"
+JavaScript error: 47213953.cfg, line 3: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604995477628	Marionette	INFO	Listening on port 53641
+1604995477860	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604995495183	Marionette	INFO	Stopped listening on port 53641
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604995619940	geckodriver	INFO	Listening on 127.0.0.1:53837
+1604995622969	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bonee\\AppData\\Local\\Temp\\rust_mozprofilePrsGn0"
+JavaScript error: 47213953.cfg, line 3: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604995625709	Marionette	INFO	Listening on port 53846
+1604995626140	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604995644001	Marionette	INFO	Stopped listening on port 53846
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604995723159	geckodriver	INFO	Listening on 127.0.0.1:54016
+1604995726192	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bonee\\AppData\\Local\\Temp\\rust_mozprofiled5n9qJ"
+JavaScript error: 47213953.cfg, line 3: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604995728942	Marionette	INFO	Listening on port 54026
+1604995729360	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604995746806	Marionette	INFO	Stopped listening on port 54026
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604996146653	geckodriver	INFO	Listening on 127.0.0.1:54394
+1604996149693	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bonee\\AppData\\Local\\Temp\\rust_mozprofilePR1cFo"
+JavaScript error: 47213953.cfg, line 3: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604996152573	Marionette	INFO	Listening on port 54403
+1604996152874	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604996163606	Marionette	INFO	Stopped listening on port 54403
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604996234635	geckodriver	INFO	Listening on 127.0.0.1:54565
+1604996237656	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bonee\\AppData\\Local\\Temp\\rust_mozprofilegtaO2L"
+JavaScript error: 47213953.cfg, line 3: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604996240402	Marionette	INFO	Listening on port 54576
+1604996240815	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604996263385	Marionette	INFO	Stopped listening on port 54576
+JavaScript error: https://d36jcksde1wxzq.cloudfront.net/bugsnag.9ce7c00bfb222ec6902e.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://d36jcksde1wxzq.cloudfront.net/bugsnag.9ce7c00bfb222ec6902e.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604996389836	geckodriver	INFO	Listening on 127.0.0.1:54774
+1604996392868	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bonee\\AppData\\Local\\Temp\\rust_mozprofileSB7bIu"
+JavaScript error: 47213953.cfg, line 3: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604996395774	Marionette	INFO	Listening on port 54783
+1604996396036	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604996412063	Marionette	INFO	Stopped listening on port 54783
+JavaScript error: https://d36jcksde1wxzq.cloudfront.net/bugsnag.9ce7c00bfb222ec6902e.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 582: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604996634986	geckodriver	INFO	Listening on 127.0.0.1:55064
+1604996638025	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bonee\\AppData\\Local\\Temp\\rust_mozprofile6qDIfg"
+JavaScript error: 47213953.cfg, line 3: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604996640808	Marionette	INFO	Listening on port 55074
+1604996641195	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604996652827	Marionette	INFO	Stopped listening on port 55074
+JavaScript error: https://d36jcksde1wxzq.cloudfront.net/bugsnag.9ce7c00bfb222ec6902e.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 582: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604996834843	geckodriver	INFO	Listening on 127.0.0.1:55274
+1604996837883	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bonee\\AppData\\Local\\Temp\\rust_mozprofileEJbkli"
+JavaScript error: 47213953.cfg, line 3: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604996840503	Marionette	INFO	Listening on port 55285
+1604996840565	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604996857501	Marionette	INFO	Stopped listening on port 55285
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604996898955	geckodriver	INFO	Listening on 127.0.0.1:55428
+1604996901990	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bonee\\AppData\\Local\\Temp\\rust_mozprofilePCkuXV"
+JavaScript error: 47213953.cfg, line 3: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604996904673	Marionette	INFO	Listening on port 55437
+1604996905196	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604996927529	Marionette	INFO	Stopped listening on port 55437
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604997099414	geckodriver	INFO	Listening on 127.0.0.1:55666
+1604997102428	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bonee\\AppData\\Local\\Temp\\rust_mozprofilemjh8l7"
+JavaScript error: 47213953.cfg, line 3: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604997105650	Marionette	INFO	Listening on port 55676
+1604997106082	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604997122390	Marionette	INFO	Stopped listening on port 55676
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604997188793	geckodriver	INFO	Listening on 127.0.0.1:55841
+1604997191823	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bonee\\AppData\\Local\\Temp\\rust_mozprofileizH8gb"
+JavaScript error: 47213953.cfg, line 3: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604997194752	Marionette	INFO	Listening on port 55851
+1604997194994	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604997217812	Marionette	INFO	Stopped listening on port 55851
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1D0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604997363478	geckodriver	INFO	Listening on 127.0.0.1:56062
+1604997366518	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bonee\\AppData\\Local\\Temp\\rust_mozprofileE3m8th"
+JavaScript error: 47213953.cfg, line 3: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604997369684	Marionette	INFO	Listening on port 56072
+1604997370188	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604997382498	Marionette	INFO	Stopped listening on port 56072
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604999226952	geckodriver	INFO	Listening on 127.0.0.1:56404
+1604999230087	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bonee\\AppData\\Local\\Temp\\rust_mozprofilemLdoWY"
+JavaScript error: 47213953.cfg, line 3: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604999237512	Marionette	INFO	Listening on port 56412
+1604999237770	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1604999253070	Marionette	INFO	Stopped listening on port 56412
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604999348605	geckodriver	INFO	Listening on 127.0.0.1:56706
+1604999351619	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bonee\\AppData\\Local\\Temp\\rust_mozprofileUEnsc7"
+JavaScript error: 47213953.cfg, line 3: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604999356368	Marionette	INFO	Listening on port 56724
+1604999356530	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604999371931	Marionette	INFO	Stopped listening on port 56724
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604999568778	geckodriver	INFO	Listening on 127.0.0.1:56968
+1604999571816	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bonee\\AppData\\Local\\Temp\\rust_mozprofile9XKW0k"
+JavaScript error: 47213953.cfg, line 3: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604999574538	Marionette	INFO	Listening on port 56977
+1604999574993	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604999587690	Marionette	INFO	Stopped listening on port 56977
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604999836913	geckodriver	INFO	Listening on 127.0.0.1:57228
+1604999839953	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bonee\\AppData\\Local\\Temp\\rust_mozprofilexLi3pp"
+JavaScript error: 47213953.cfg, line 3: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604999842959	Marionette	INFO	Listening on port 57237
+1604999843119	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604999856938	Marionette	INFO	Stopped listening on port 57237
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604999991450	geckodriver	INFO	Listening on 127.0.0.1:57572
+1604999994464	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bonee\\AppData\\Local\\Temp\\rust_mozprofilegOSbZ4"
+JavaScript error: 47213953.cfg, line 3: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604999997730	Marionette	INFO	Listening on port 57587
+1604999998139	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605000010158	Marionette	INFO	Stopped listening on port 57587
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605000029460	geckodriver	INFO	Listening on 127.0.0.1:57844
+1605000032498	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bonee\\AppData\\Local\\Temp\\rust_mozprofiledMRKaK"
+JavaScript error: 47213953.cfg, line 3: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605000035612	Marionette	INFO	Listening on port 57853
+1605000035665	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605000046971	Marionette	INFO	Stopped listening on port 57853
+JavaScript error: https://d36jcksde1wxzq.cloudfront.net/bugsnag.9ce7c00bfb222ec6902e.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605000098380	geckodriver	INFO	Listening on 127.0.0.1:58007
+1605000101421	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bonee\\AppData\\Local\\Temp\\rust_mozprofilegp8rHA"
+JavaScript error: 47213953.cfg, line 3: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605000104656	Marionette	INFO	Listening on port 58016
+1605000105101	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605000117965	Marionette	INFO	Stopped listening on port 58016
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 582: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: https://d36jcksde1wxzq.cloudfront.net/bugsnag.9ce7c00bfb222ec6902e.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605000236193	geckodriver	INFO	Listening on 127.0.0.1:58186
+1605000239229	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bonee\\AppData\\Local\\Temp\\rust_mozprofileP6GS6l"
+JavaScript error: 47213953.cfg, line 3: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605000242518	Marionette	INFO	Listening on port 58196
+1605000242917	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605000256529	Marionette	INFO	Stopped listening on port 58196
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605000327694	geckodriver	INFO	Listening on 127.0.0.1:58355
+1605000330723	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bonee\\AppData\\Local\\Temp\\rust_mozprofile74iOlZ"
+JavaScript error: 47213953.cfg, line 3: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605000333615	Marionette	INFO	Listening on port 58364
+1605000333887	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605000350414	Marionette	INFO	Stopped listening on port 58364
+JavaScript error: https://d36jcksde1wxzq.cloudfront.net/bugsnag.9ce7c00bfb222ec6902e.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605000562577	geckodriver	INFO	Listening on 127.0.0.1:58595
+1605000565670	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bonee\\AppData\\Local\\Temp\\rust_mozprofileWooBoZ"
+JavaScript error: 47213953.cfg, line 3: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605000568329	Marionette	INFO	Listening on port 58607
+1605000568834	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605000583337	Marionette	INFO	Stopped listening on port 58607
+JavaScript error: https://d36jcksde1wxzq.cloudfront.net/bugsnag.9ce7c00bfb222ec6902e.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605000815440	geckodriver	INFO	Listening on 127.0.0.1:58863
+1605000818524	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bonee\\AppData\\Local\\Temp\\rust_mozprofiledB1LLS"
+JavaScript error: 47213953.cfg, line 3: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605000821272	Marionette	INFO	Listening on port 58874
+1605000821714	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605000833765	Marionette	INFO	Stopped listening on port 58874
+JavaScript error: https://d36jcksde1wxzq.cloudfront.net/bugsnag.9ce7c00bfb222ec6902e.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 582: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605000863678	geckodriver	INFO	Listening on 127.0.0.1:59000
+1605000866731	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bonee\\AppData\\Local\\Temp\\rust_mozprofile6eZFuO"
+JavaScript error: 47213953.cfg, line 3: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605000869560	Marionette	INFO	Listening on port 59009
+1605000869930	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605000890764	Marionette	INFO	Stopped listening on port 59009
+JavaScript error: https://d36jcksde1wxzq.cloudfront.net/bugsnag.9ce7c00bfb222ec6902e.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605001107964	geckodriver	INFO	Listening on 127.0.0.1:59243
+1605001111016	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bonee\\AppData\\Local\\Temp\\rust_mozprofile9mMmn6"
+JavaScript error: 47213953.cfg, line 3: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605001113634	Marionette	INFO	Listening on port 59255
+1605001113693	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605001134883	Marionette	INFO	Stopped listening on port 59255
+JavaScript error: https://d36jcksde1wxzq.cloudfront.net/bugsnag.9ce7c00bfb222ec6902e.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605001267814	geckodriver	INFO	Listening on 127.0.0.1:59434
+1605001270849	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bonee\\AppData\\Local\\Temp\\rust_mozprofiley98Pyn"
+JavaScript error: 47213953.cfg, line 3: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605001273516	Marionette	INFO	Listening on port 59444
+1605001274034	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605001284641	Marionette	INFO	Stopped listening on port 59444
+JavaScript error: https://d36jcksde1wxzq.cloudfront.net/bugsnag.9ce7c00bfb222ec6902e.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 582: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605001326243	geckodriver	INFO	Listening on 127.0.0.1:59571
+1605001329259	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bonee\\AppData\\Local\\Temp\\rust_mozprofilez3reYd"
+JavaScript error: 47213953.cfg, line 3: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605001332780	Marionette	INFO	Listening on port 59580
+1605001332923	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605001351146	Marionette	INFO	Stopped listening on port 59580
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605001383404	geckodriver	INFO	Listening on 127.0.0.1:59780
+1605001386430	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bonee\\AppData\\Local\\Temp\\rust_mozprofileOMM9Ot"
+JavaScript error: 47213953.cfg, line 3: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605001389571	Marionette	INFO	Listening on port 59789
+1605001390094	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605001410143	Marionette	INFO	Stopped listening on port 59789
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605001487273	geckodriver	INFO	Listening on 127.0.0.1:59982
+1605001490288	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bonee\\AppData\\Local\\Temp\\rust_mozprofileqlBmIi"
+JavaScript error: 47213953.cfg, line 3: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605001493117	Marionette	INFO	Listening on port 59992
+1605001493451	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605001511877	Marionette	INFO	Stopped listening on port 59992
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605001639579	geckodriver	INFO	Listening on 127.0.0.1:60170
+1605001647996	geckodriver	INFO	Listening on 127.0.0.1:60181
+1605001651029	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bonee\\AppData\\Local\\Temp\\rust_mozprofilebJm2dA"
+JavaScript error: 47213953.cfg, line 3: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605001653760	Marionette	INFO	Listening on port 60192
+1605001654197	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605001672342	Marionette	INFO	Stopped listening on port 60192
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605001797328	geckodriver	INFO	Listening on 127.0.0.1:60383
+1605001800369	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bonee\\AppData\\Local\\Temp\\rust_mozprofile1z6a0k"
+JavaScript error: 47213953.cfg, line 3: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605001802960	Marionette	INFO	Listening on port 60392
+1605001803050	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605001827219	Marionette	INFO	Stopped listening on port 60392
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605001858765	geckodriver	INFO	Listening on 127.0.0.1:60549
+1605001861779	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bonee\\AppData\\Local\\Temp\\rust_mozprofilejItFGl"
+JavaScript error: 47213953.cfg, line 3: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605001864606	Marionette	INFO	Listening on port 60558
+1605001864941	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605001894678	Marionette	INFO	Stopped listening on port 60558
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605002098265	geckodriver	INFO	Listening on 127.0.0.1:60946
+1605002101303	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bonee\\AppData\\Local\\Temp\\rust_mozprofileYD4mIz"
+JavaScript error: 47213953.cfg, line 3: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605002104592	Marionette	INFO	Listening on port 60955
+1605002104972	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605002116820	Marionette	INFO	Stopped listening on port 60955
+JavaScript error: https://d36jcksde1wxzq.cloudfront.net/bugsnag.9ce7c00bfb222ec6902e.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 582: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605002118973	geckodriver	INFO	Listening on 127.0.0.1:61065
+1605002121970	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bonee\\AppData\\Local\\Temp\\rust_mozprofileWhZVhH"
+JavaScript error: 47213953.cfg, line 3: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605002125367	Marionette	INFO	Listening on port 61075
+1605002125645	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+1605002136151	Marionette	INFO	Stopped listening on port 61075
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605002138233	geckodriver	INFO	Listening on 127.0.0.1:61159
+1605002141239	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bonee\\AppData\\Local\\Temp\\rust_mozprofileoO116k"
+JavaScript error: 47213953.cfg, line 3: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605002144160	Marionette	INFO	Listening on port 61171
+1605002144404	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605002173485	Marionette	INFO	Stopped listening on port 61171
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605002255132	geckodriver	INFO	Listening on 127.0.0.1:61395
+1605002258155	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bonee\\AppData\\Local\\Temp\\rust_mozprofiledOvE45"
+JavaScript error: 47213953.cfg, line 3: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605002261877	Marionette	INFO	Listening on port 61406
+1605002262355	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605002274445	Marionette	INFO	Stopped listening on port 61406
+[Parent 15504, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+JavaScript error: https://d36jcksde1wxzq.cloudfront.net/bugsnag.9ce7c00bfb222ec6902e.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605002276237	geckodriver	INFO	Listening on 127.0.0.1:61506
+1605002279254	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bonee\\AppData\\Local\\Temp\\rust_mozprofile9p7Xvn"
+JavaScript error: 47213953.cfg, line 3: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605002282595	Marionette	INFO	Listening on port 61515
+1605002282933	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+1605002291949	Marionette	INFO	Stopped listening on port 61515
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605002293857	geckodriver	INFO	Listening on 127.0.0.1:61618
+1605002296897	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bonee\\AppData\\Local\\Temp\\rust_mozprofilejtQa6e"
+JavaScript error: 47213953.cfg, line 3: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605002299786	Marionette	INFO	Listening on port 61628
+1605002300054	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605002328272	Marionette	INFO	Stopped listening on port 61628
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605002375571	geckodriver	INFO	Listening on 127.0.0.1:61823
+1605002378584	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bonee\\AppData\\Local\\Temp\\rust_mozprofileVv3rVQ"
+JavaScript error: 47213953.cfg, line 3: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605002381663	Marionette	INFO	Listening on port 61832
+1605002381771	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605002411518	Marionette	INFO	Stopped listening on port 61832
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605003280771	geckodriver	INFO	Listening on 127.0.0.1:62548
+1605003283807	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bonee\\AppData\\Local\\Temp\\rust_mozprofileVCNWgn"
+JavaScript error: 47213953.cfg, line 3: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605003287156	Marionette	INFO	Listening on port 62560
+1605003287493	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605003296749	geckodriver	INFO	Listening on 127.0.0.1:62596
+1605003299772	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bonee\\AppData\\Local\\Temp\\rust_mozprofileeyor4w"
+JavaScript error: 47213953.cfg, line 3: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605003303296	Marionette	INFO	Listening on port 62605
+1605003303443	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605003317632	Marionette	INFO	Stopped listening on port 62605
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605003438910	geckodriver	INFO	Listening on 127.0.0.1:62802
+1605003441925	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bonee\\AppData\\Local\\Temp\\rust_mozprofileMWMsWh"
+JavaScript error: 47213953.cfg, line 3: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605003445320	Marionette	INFO	Listening on port 62811
+1605003445583	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605003465273	Marionette	INFO	Stopped listening on port 62811
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605003519031	geckodriver	INFO	Listening on 127.0.0.1:63001
+1605003522051	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bonee\\AppData\\Local\\Temp\\rust_mozprofileVP54hJ"
+JavaScript error: 47213953.cfg, line 3: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605003527324	Marionette	INFO	Listening on port 63010
+1605003527453	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605003548600	Marionette	INFO	Stopped listening on port 63010
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605003858738	geckodriver	INFO	Listening on 127.0.0.1:63345
+1605003861712	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bonee\\AppData\\Local\\Temp\\rust_mozprofilekGQAaA"
+JavaScript error: 47213953.cfg, line 3: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605003875889	Marionette	INFO	Listening on port 63354
+1605003876603	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605003891100	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605003904686	Marionette	INFO	Stopped listening on port 63354
+JavaScript error: https://d36jcksde1wxzq.cloudfront.net/bugsnag.9ce7c00bfb222ec6902e.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://d36jcksde1wxzq.cloudfront.net/bugsnag.9ce7c00bfb222ec6902e.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605004119993	geckodriver	INFO	Listening on 127.0.0.1:63631
+1605004122993	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bonee\\AppData\\Local\\Temp\\rust_mozprofile87ZG0u"
+JavaScript error: 47213953.cfg, line 3: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605004134924	Marionette	INFO	Listening on port 63642
+1605004135193	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x600015,name=PLayerTransaction::Msg_ClearCachedResources) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x600020,name=PLayerTransaction::Msg_Shutdown) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: (msgtype=0x350019,name=PCompositorBridge::Msg_WillClose) Channel error: cannot send/recv
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1605004197413	geckodriver	INFO	Listening on 127.0.0.1:63813
+1605004200421	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bonee\\AppData\\Local\\Temp\\rust_mozprofilezLONqZ"
+JavaScript error: 47213953.cfg, line 3: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605004215190	Marionette	INFO	Listening on port 63822
+1605004215883	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605004264467	Marionette	INFO	Stopped listening on port 63822
+JavaScript error: https://d36jcksde1wxzq.cloudfront.net/bugsnag.9ce7c00bfb222ec6902e.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ror: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605004237701	Marionette	INFO	Listening on port 63924
+1605004237856	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605004247712	Marionette	INFO	Stopped listening on port 63924
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605005734163	geckodriver	INFO	Listening on 127.0.0.1:65010
+1605005737178	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bonee\\AppData\\Local\\Temp\\rust_mozprofile89AhoB"
+JavaScript error: 47213953.cfg, line 3: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605005746673	Marionette	INFO	Listening on port 65019
+1605005746821	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605005765681	Marionette	INFO	Stopped listening on port 65019
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605006398141	geckodriver	INFO	Listening on 127.0.0.1:49164
+1605006401150	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bonee\\AppData\\Local\\Temp\\rust_mozprofileqybZv0"
+JavaScript error: 47213953.cfg, line 3: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605006411243	Marionette	INFO	Listening on port 49174
+1605006411805	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605006430237	Marionette	INFO	Stopped listening on port 49174
+JavaScript error: https://d36jcksde1wxzq.cloudfront.net/bugsnag.9ce7c00bfb222ec6902e.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://d36jcksde1wxzq.cloudfront.net/bugsnag.9ce7c00bfb222ec6902e.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605006857464	geckodriver	INFO	Listening on 127.0.0.1:49571
+1605006860480	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bonee\\AppData\\Local\\Temp\\rust_mozprofileYQ6hdE"
+JavaScript error: 47213953.cfg, line 3: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605006870916	Marionette	INFO	Listening on port 49581
+1605006871486	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605006889369	Marionette	INFO	Stopped listening on port 49581
+JavaScript error: https://d36jcksde1wxzq.cloudfront.net/bugsnag.9ce7c00bfb222ec6902e.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605007468842	geckodriver	INFO	Listening on 127.0.0.1:50046
+1605007471871	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bonee\\AppData\\Local\\Temp\\rust_mozprofileS9sV6Z"
+JavaScript error: 47213953.cfg, line 3: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605007483496	Marionette	INFO	Listening on port 50057
+1605007484062	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605007502843	Marionette	INFO	Stopped listening on port 50057
+JavaScript error: https://d36jcksde1wxzq.cloudfront.net/bugsnag.9ce7c00bfb222ec6902e.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://d36jcksde1wxzq.cloudfront.net/bugsnag.9ce7c00bfb222ec6902e.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+[Child 14428, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 545
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605008993259	geckodriver	INFO	Listening on 127.0.0.1:51237
+1605008996273	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bonee\\AppData\\Local\\Temp\\rust_mozprofiletajynm"
+JavaScript error: 47213953.cfg, line 3: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605009003600	Marionette	INFO	Listening on port 51247
+1605009003813	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605009023871	Marionette	INFO	Stopped listening on port 51247
+JavaScript error: https://d36jcksde1wxzq.cloudfront.net/bugsnag.9ce7c00bfb222ec6902e.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605009047213	geckodriver	INFO	Listening on 127.0.0.1:51394
+1605009050238	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bonee\\AppData\\Local\\Temp\\rust_mozprofileefj7Oz"
+JavaScript error: 47213953.cfg, line 3: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605009060463	Marionette	INFO	Listening on port 51404
+1605009063032	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605009081455	Marionette	INFO	Stopped listening on port 51404
+JavaScript error: https://d36jcksde1wxzq.cloudfront.net/bugsnag.9ce7c00bfb222ec6902e.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://d36jcksde1wxzq.cloudfront.net/bugsnag.9ce7c00bfb222ec6902e.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605009360363	geckodriver	INFO	Listening on 127.0.0.1:51708
+1605009363397	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bonee\\AppData\\Local\\Temp\\rust_mozprofilexVKPLZ"
+JavaScript error: 47213953.cfg, line 3: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605009378531	Marionette	INFO	Listening on port 51718
+1605009379030	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605009415266	Marionette	INFO	Stopped listening on port 51718
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605009474472	geckodriver	INFO	Listening on 127.0.0.1:51896
+1605009477477	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Bonee\\AppData\\Local\\Temp\\rust_mozprofileXtICgD"
+JavaScript error: 47213953.cfg, line 3: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605009486632	Marionette	INFO	Listening on port 51906
+1605009487008	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605009510223	Marionette	INFO	Stopped listening on port 51906
+JavaScript error: https://d36jcksde1wxzq.cloudfront.net/bugsnag.9ce7c00bfb222ec6902e.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
