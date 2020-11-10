@@ -1,2 +1,2 @@
 # UnitTestsDocker
-Generic unit tests for web applications using POM for python selenium
+Generic unit tests for web applications styled in POM using python selenium
