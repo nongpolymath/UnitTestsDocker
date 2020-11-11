@@ -1,12 +1,15 @@
 import os
+import sys
 import time
 import unittest
+
+sys.path.append(os.path.join(os.path.dirname(__file__), "...", "..."))
 
 import HtmlTestRunner
 
 from UnitTestsDocker.DockerPages.HomePage import DockerHomePageLocators
 from UnitTestsDocker.DockerPages.SignInPage import SignInLocators
-from UnitTestsDocker.test_base_home_page import DockerHomePageBaseTest
+from UnitTestsDocker.Tests.test_base_home_page import DockerHomePageBaseTest
 
 USERNAME = 'dockerauto1'
 PASSWORD = 'pythoncookbook12'
@@ -30,5 +33,5 @@ class LoginTest(DockerHomePageBaseTest):
 
 
 if __name__ == "__main__":
-    directoryPath = os.getcwd()
+    directoryPath = os.path.dirname(os.getcwd())
     unittest.main(testRunner=HtmlTestRunner.HTMLTestRunner(output=directoryPath + '//reports'))

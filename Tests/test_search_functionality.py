@@ -1,12 +1,15 @@
 import os
+import sys
 import time
 import unittest
+
+sys.path.append(os.path.join(os.path.dirname(__file__), "...", "..."))
 
 import HtmlTestRunner
 
 from UnitTestsDocker.DockerPages.HomePage import DockerHomePageLocators
 from UnitTestsDocker.DockerPages.SearchResultsPage import SearchResultsLocators
-from UnitTestsDocker.test_base_home_page import DockerHomePageBaseTest
+from UnitTestsDocker.Tests.test_base_home_page import DockerHomePageBaseTest
 
 HOME_PAGE_TITLE = "Empowering App Development for Developers | Docker"
 SEARCH_TEXT = "docker"
@@ -39,5 +42,5 @@ class SearchFunctionTest(DockerHomePageBaseTest):
 
 
 if __name__ == "__main__":
-    directoryPath = os.getcwd()
+    directoryPath = os.path.dirname(os.getcwd())
     unittest.main(testRunner=HtmlTestRunner.HTMLTestRunner(output=directoryPath + '//reports'))

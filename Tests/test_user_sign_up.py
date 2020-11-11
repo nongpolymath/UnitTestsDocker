@@ -1,15 +1,17 @@
 import os
-import time
+import sys
 import unittest
 import logging
 import string
 import random
 import HtmlTestRunner
 
+sys.path.append(os.path.join(os.path.dirname(__file__), "...", "..."))
+
 from UnitTestsDocker.DockerPages.HomePage import DockerHomePageLocators
 from UnitTestsDocker.DockerPages.SignInPage import SignInLocators
 from UnitTestsDocker.DockerPages.SignUpPage import SignUpLocators
-from UnitTestsDocker.test_base_home_page import DockerHomePageBaseTest
+from UnitTestsDocker.Tests.test_base_home_page import DockerHomePageBaseTest
 
 from selenium.common.exceptions import TimeoutException
 from selenium.webdriver.support.ui import WebDriverWait
@@ -108,8 +110,8 @@ class UserSignupTest(DockerHomePageBaseTest):
     def click_recaptcha(self):
         """function to click on elements exist on separate iframes"""
 
-        WebDriverWait(self.driver, 20).until(EC.element_to_be_clickable((By.ID, "recaptcha-anchor")))
-
+        captcha = WebDriverWait(self.driver, 20).until(EC.element_to_be_clickable((By.ID, "recaptcha-anchor")))
+        captcha.click()
 
 def generate_user_name():
     """random user name generator"""
@@ -135,5 +137,5 @@ def generate_email():
 
 
 if __name__ == "__main__":
-    directoryPath = os.getcwd()
+    directoryPath = os.path.dirname(os.getcwd())
     unittest.main(testRunner=HtmlTestRunner.HTMLTestRunner(output=directoryPath + '//reports'))
