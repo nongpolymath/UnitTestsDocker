@@ -1,4 +1,5 @@
 class SignInLocators(object):
+    """POM class for SignIn Page"""
 
     def __init__(self, driver):
         self.driver = driver

@@ -1,5 +1,7 @@
-import os, time
+import os
+import time
 import unittest
+
 import HtmlTestRunner
 
 from UnitTestsDocker.DockerPages.HomePage import DockerHomePageLocators
@@ -11,13 +13,16 @@ PASSWORD = 'pythoncookbook12'
 
 
 class LoginTest(DockerHomePageBaseTest):
+    """Tests the login functionality of a registered user"""
 
     def test_sign_in_button_works(self):
+        """tests the sign in button works on landing page"""
         home_page = DockerHomePageLocators(self.driver)
         home_page.click_sign_in()
         time.sleep(2)
 
     def test_sign_in_functionality(self):
+        """tests the sign in functionality """
         sign_in_page = SignInLocators(self.driver)
         sign_in_page.enter_docker_id(USERNAME)
         sign_in_page.enter_user_password(PASSWORD)

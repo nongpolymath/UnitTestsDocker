@@ -1,10 +1,12 @@
 import unittest
-import time, os
+import os
 from selenium import webdriver
 import HtmlTestRunner
 
 
 class DockerHomePageBaseTest(unittest.TestCase):
+    """Base Test for browser app setup and teardown """
+
     driver = None
 
     @classmethod

@@ -1,5 +1,7 @@
-import os, time
+import os
+import time
 import unittest
+
 import HtmlTestRunner
 
 from UnitTestsDocker.DockerPages.HomePage import DockerHomePageLocators
@@ -16,6 +18,8 @@ SEARCH_RESULT2 = "Get Started with Docker"
 class SearchFunctionTest(DockerHomePageBaseTest):
 
     def test_search_functionality(self):
+        """Tests Home Page title and search functionality with text as input works"""
+
         docker_home_page = DockerHomePageLocators(self.driver)
         self.assertEqual(HOME_PAGE_TITLE, docker_home_page.page_title,
                          "Search Results title should be correct")
@@ -23,6 +27,8 @@ class SearchFunctionTest(DockerHomePageBaseTest):
         time.sleep(2)
 
     def test_search_results_for_docker(self):
+        """tests the indexed search results for query text 'docker'"""
+
         search_page_object = SearchResultsLocators(self.driver)
         self.assertEqual(HEADER_TEXT, search_page_object.search_results_header.text,
                          "Search Results title should be correct")

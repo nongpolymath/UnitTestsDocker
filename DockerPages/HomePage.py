@@ -2,6 +2,7 @@ from selenium.webdriver.common.keys import Keys
 
 
 class DockerHomePageLocators(object):
+    """POM class for Docker Landing page"""
 
     def __init__(self, driver):
         self.driver = driver

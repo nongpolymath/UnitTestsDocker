@@ -1,4 +1,5 @@
 class SignUpLocators(object):
+    """POM class for Signup Page"""
 
     def __init__(self, driver):
         self.driver = driver
@@ -9,7 +10,7 @@ class SignUpLocators(object):
 
     @property
     def user_id(self):
-        return self.driver.find_element_by_id('username')
+        return self.driver.find_element_by_id("username")
 
     @property
     def email(self):
@@ -21,18 +22,18 @@ class SignUpLocators(object):
 
     @property
     def captcha_checkbox(self):
-        return self.driver.find_element_by_id('recaptcha-anchor')
+        return self.driver.find_element_by_id("recaptcha-anchor")
 
     @property
     def sign_up_button(self):
         return self.driver.find_element_by_class_name('styles__signUpButton___jEpn5')
 
     def enter_new_docker_id(self, user_text):
-        import time
-        time.sleep(5)
-        self.user_id.send_keys(user_text)
+        user_id = self.user_id
+        user_id.send_keys(user_text)
 
     def enter_user_password(self, user_password):
+        self.password.click()
         self.password.send_keys(user_password)
 
     def enter_user_email(self, email_id):
